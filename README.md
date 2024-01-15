@@ -1,2 +1,2 @@
 # UpdaterPraktika
-ver 1.1
+ver 1.3
